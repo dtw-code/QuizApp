@@ -45,8 +45,8 @@ To get started with the QuizApp:
 
 ## Screenshots
 
-![Quiz Start](screenshots/quiz_start.png)
-![Question View](screenshots/question_view.png)
-![Results](screenshots/results.png)
+![Quiz Start](quiz_screenshots/quiz_start.png)
+![Question View](quiz_screenshots/question_view.png)
+![Results](quiz_screenshots/results.png)
 
 
