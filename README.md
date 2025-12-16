@@ -1,16 +1,60 @@
-# quizapp_trialapp2
+# QuizApp
 
-A new Flutter project.
+QuizApp is a beginner-friendly mobile application developed using Flutter. The primary purpose of this project is to aid in understanding Flutter widgets and states. 
+
+## Overview
+
+This application provides a simple quiz interface where users can answer questions and see their results. It serves as a practice ground for developing basic cross-platform apps with Flutter.
+
+## Key Features
+
+- Interactive user interface with essential Flutter widgets.
+- Basic state management for capturing user interactions.
+- Simple and easy-to-understand codebase for learning purposes.
+
+## Why This Project?
+
+As a beginner, understanding the core concepts of any framework is essential. By working on QuizApp, the focus was to get hands-on experience with:
+- Flutter Widgets (e.g., `Scaffold`, `Container`, `Column`, etc.)
+- State Management (`StatefulWidget` and `setState`)
+- Basic navigation in Flutter
+
+It’s a stepping stone in my journey of mastering Flutter development.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with the QuizApp:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/dtw-code/QuizApp.git
+   ```
+2. Change to the project directory:
+   ```bash
+   cd QuizApp
+   ```
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+4. Run the app:
+   ```bash
+   flutter run
+   ```
 
-A few resources to get you started if this is your first Flutter project:
+> **Note:** Make sure you have Flutter installed and set up on your system. Refer to the [official Flutter documentation](https://flutter.dev/docs/get-started/install) for setup instructions.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Quiz Start](screenshots/quiz_start.png)
+![Question View](screenshots/question_view.png)
+![Results](screenshots/results.png)
+
+*Note: Add screenshots to the `screenshots` folder to showcase your app in action.*
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Happy Learning! 🎉
