@@ -49,12 +49,4 @@ To get started with the QuizApp:
 ![Question View](screenshots/question_view.png)
 ![Results](screenshots/results.png)
 
-*Note: Add screenshots to the `screenshots` folder to showcase your app in action.*
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Happy Learning! 🎉
